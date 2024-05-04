@@ -1,8 +1,5 @@
 ## About Me
-
-What's up? hey\|you
-
-I am an awesome student at Lehigh, you should hire me!
+Hello! My name is Sammi Opalewski, and I am a current juinor at Lehigh University majoring in finance and minoring in applied mathematics. I am from Branchburg, New Jersey. 
 
 <!-- Upload your own photo and change the path -->
 
@@ -44,15 +41,11 @@ _**[Some personal project](/pdf/sample_presentation.pdf)**_
 
 ## Career Objectives
 
-Write what you want. 
+In June, I will begin an internship at Syncarpha Capital on their Assest Management team in Radnor, PA. 
 
-Sell yourself!
-
----
-
-## Hobbies
-
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
+## My Free Time! 
+- Running is a great way for me to relieve stress and clear my head. I just ran my first half marathon last weekend!
+- I also love to go to the beach, go on hikes, swim, and spend time with my family and friends. 
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
