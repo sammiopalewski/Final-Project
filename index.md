@@ -13,7 +13,7 @@ Hello! My name is Sammi Opalewski, and I am a current juinor at Lehigh Universit
 
 _**[Natural language processing 10-Ks to identify risks](midterm_summary)**_
 
-You can show off your midterm analysis by moving the report components and output into this file. Or...
+In the midterm project for financial data science, we analyzed stock returns and sentiment varibales in SEC 10K's across the S&P 500. Linked is my report from the project!
 
 [Link Text](https://github.com/LeDataSciFi/asgn-05-sammiopalewski/blob/main/report.ipynb)/>
 
