@@ -11,15 +11,16 @@ Hello! My name is Sammi Opalewski, and I am a current juinor at Lehigh Universit
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-In the midterm project for financial data science, we analyzed stock returns and sentiment varibales in SEC 10K's across the S&P 500. Linked is my report from the project!
+In the midterm project for financial data science, we analyzed stock returns and sentiment varibales in SEC 10K's across the S&P 500. Linked above is my report from the project!
 
-[Link Text](https://github.com/LeDataSciFi/asgn-05-sammiopalewski/blob/main/report.ipynb)/>
-
----
 
 ---
 
-_**[Data Science for Finance Final Team Project](https://donbowen.github.io/teamproject/)**_
+---
+
+_**[Data Science for Finance Final Team Project](https://sammiopalewski.github.io/FinalProjectWebsite/)**_
+
+In the final prjoect, we analyzed how certain events and subscriber counts of streaming services impacted stock returns of subsidiaries. Our website is linked above! 
 
 
 
