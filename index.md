@@ -28,7 +28,7 @@ _**[Eventual team project](https://donbowen.github.io/teamproject/)**_
 _**[Some personal project](/pdf/sample_presentation.pdf)**_
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-<iframe src="https://drive.google.com/file/d/1sBdpHCWX9DMYXfjP_MzOjmNWyj6gjY_W/view?usp=sharing" width="100%" height="600px"></iframe>
+<iframe src=("https://drive.google.com/file/d/1sBdpHCWX9DMYXfjP_MzOjmNWyj6gjY_W/view?usp=sharing") width="100%" height="600px"></iframe>
 
 ---
 
