@@ -7,7 +7,7 @@ Hello! My name is Sammi Opalewski, and I am a current juinor at Lehigh Universit
 
 ---
 
-## [Data Science for Finance Midterm](https://github.com/LeDataSciFi/asgn-05-sammiopalewski/blob/main/report.ipynb)
+_**[Data Science for Finance Midterm](https://github.com/LeDataSciFi/asgn-05-sammiopalewski/blob/main/report.ipynb)**_
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
