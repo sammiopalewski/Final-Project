@@ -40,8 +40,9 @@ _**[Some personal project](/pdf/sample_presentation.pdf)**_
 ---
 
 ## Career Objectives
-
-In June, I will begin an internship at Syncarpha Capital on their Assest Management team in Radnor, PA. 
+- I am looking forward to combining my love for finance, math, and working others into one career. I thrive in a team environment and have held various leadership roles in and outside of Lehigh. 
+- In June, I will begin an internship at Syncarpha Capital on their Assest Management team in Radnor, Pennsylvania. I am excited to work for a company that has a positive impact on the world around us. 
+- After working in finance or a finance related field for a long time, I hope to become a teacher. 
 
 ## My Free Time! 
 - Running is a great way for me to relieve stress and clear my head. I just ran my first half marathon last weekend!
