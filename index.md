@@ -11,19 +11,11 @@ Hello! My name is Sammi Opalewski, and I am a current juinor at Lehigh Universit
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[Natural language processing 10-Ks to identify risks](midterm_summary)**_
-
 In the midterm project for financial data science, we analyzed stock returns and sentiment varibales in SEC 10K's across the S&P 500. Linked is my report from the project!
 
 [Link Text](https://github.com/LeDataSciFi/asgn-05-sammiopalewski/blob/main/report.ipynb)/>
 
 ---
-
-_**[Regression Practice](Regression_practice)**_
-
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
@@ -36,6 +28,7 @@ _**[Eventual team project](https://donbowen.github.io/teamproject/)**_
 _**[Some personal project](/pdf/sample_presentation.pdf)**_
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+<iframe src="https://github.com/exampleuser/example-repo/raw/main/Section014_Group_4%20(1).pdf" width="100%" height="600px"></iframe>
 
 ---
 
