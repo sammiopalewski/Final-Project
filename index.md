@@ -7,7 +7,7 @@ Hello! My name is Sammi Opalewski, and I am a current juinor at Lehigh Universit
 
 ---
 
-## Portfolio
+## [Data Science for Finance Midterm]((https://github.com/LeDataSciFi/asgn-05-sammiopalewski/blob/main/report.ipynb)
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
@@ -19,16 +19,15 @@ In the midterm project for financial data science, we analyzed stock returns and
 
 ---
 
-_**[Eventual team project](https://donbowen.github.io/teamproject/)**_
+_**[Data Science for Finance Final Team Project](https://donbowen.github.io/teamproject/)**_
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 
-_**[Some personal project](https://drive.google.com/file/d/1sBdpHCWX9DMYXfjP_MzOjmNWyj6gjY_W/view?usp=sharing)**_
+_**[Corporate Finacial Policy Final Team Project](https://drive.google.com/file/d/1sBdpHCWX9DMYXfjP_MzOjmNWyj6gjY_W/view?usp=sharing)**_
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-<iframe src="https://drive.google.com/file/d/1sBdpHCWX9DMYXfjP_MzOjmNWyj6gjY_W/view?usp=sharing" width="100%" height="600px"></iframe>
+
 
 ---
 
